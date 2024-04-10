@@ -1,0 +1,10 @@
+.login-card{
+    background-color: aqua;
+    display: flex;
+}
+
+.login-content{
+    background-color: blueviolet;
+    display:flexbox;
+    text-align: center;
+}

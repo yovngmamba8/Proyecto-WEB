@@ -18,5 +18,18 @@
 
 .carrusel_precios img{
     height: 30rem;
+    border-radius: 2px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper img{
     border-radius: 2rem;
+    box-shadow: 0 4px 12px 0 green;
+    margin-bottom: 2rem;
 }

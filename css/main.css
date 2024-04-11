@@ -8,3 +8,16 @@
 .nav_end{
     justify-self: flex-end;
 }
+
+.carrusel_precios{
+    height: 20rem;
+    margin: auto 2rem 2rem 2rem;
+    border-radius: 2rem;
+    box-shadow: 0 4px 12px 0 green;
+}
+
+.carrusel_precios img{
+    height: 30rem;
+    border-radius: 2rem;
+    box-shadow: 0 4px 12px 0 green;
+}

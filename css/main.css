@@ -1,5 +1,10 @@
-.navbar{
-
+.imagen_carrito{
+    height: 3rem;
+    margin-right: 2rem;
 }
-
-
+.nav_border{
+    box-shadow: 0 4px 8px 0 blueviolet;
+}
+.nav_end{
+    justify-self: flex-end;
+}

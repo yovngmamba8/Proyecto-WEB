@@ -89,3 +89,11 @@ body::before {
     box-shadow: 0 4px 12px 0 green;
     margin-bottom: 2rem;
 }
+
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #2196f3;
+    padding-top: 20;
+}

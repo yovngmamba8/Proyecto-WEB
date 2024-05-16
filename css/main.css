@@ -68,3 +68,24 @@ body::before {
     box-shadow: 0 4px 12px 0 green;
     border-radius: 2rem;
 }
+
+.est{
+    height: 15rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 0 green;
+    margin-bottom: 2rem;
+}
+
+.pbbq{
+    height: 15rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 0 green;
+    margin-bottom: 2rem;
+}
+
+.palos{
+    height: 15rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 0 green;
+    margin-bottom: 2rem;
+}

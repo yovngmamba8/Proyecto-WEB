@@ -120,6 +120,14 @@ button{
     cursor: pointer;
 }
 
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #2196f3;
+    padding-top: 20;
+}
+
 @media screen and (max-width:500px){
     form{
         width: 80%;

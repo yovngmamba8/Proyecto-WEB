@@ -10,8 +10,7 @@ body::before {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: #00ff56;
-    background: repeating-linear-gradient( -45deg, #000007, #000007 12.5px, #00ff56 12.5px, #00ff56 62.5px );
+    background-color: #fefefe;
     opacity: 0.3;
     z-index: -1;
 
@@ -23,7 +22,7 @@ body::before {
 
 
 .nav_border{
-    box-shadow: 0 4px 8px 0 green;
+    box-shadow: 0 4px 8px 0 rgb(255, 3, 3);
     margin-bottom: 2rem;
 }
 .nav_end{
@@ -34,7 +33,7 @@ body::before {
     height: 30rem;
     margin: auto 2rem 2rem 2rem;
     border-radius: 2rem;
-    box-shadow: 0 4px 12px 0 green;
+    box-shadow: 0 4px 12px 0 rgb(255, 0, 0);
 }
 
 .carrusel_precios img{
@@ -52,7 +51,7 @@ body::before {
 
 .wrapper img{
     border-radius: 5px;
-    box-shadow: 0 4px 12px 0 green;
+    box-shadow: 0 4px 12px 0 rgb(255, 0, 0);
     margin-bottom: 2rem;
 }
 
@@ -65,28 +64,28 @@ body::before {
 }
 
 .card {
-    box-shadow: 0 4px 12px 0 green;
+    box-shadow: 0 4px 12px 0 rgb(255, 0, 0);
     border-radius: 2rem;
 }
 
 .est{
     height: 15rem;
     border-radius: 5px;
-    box-shadow: 0 4px 12px 0 green;
+    box-shadow: 0 4px 12px 0 rgb(255, 0, 0);
     margin-bottom: 2rem;
 }
 
 .pbbq{
     height: 15rem;
     border-radius: 5px;
-    box-shadow: 0 4px 12px 0 green;
+    box-shadow: 0 4px 12px 0 rgb(255, 0, 0);
     margin-bottom: 2rem;
 }
 
 .palos{
     height: 15rem;
     border-radius: 5px;
-    box-shadow: 0 4px 12px 0 green;
+    box-shadow: 0 4px 12px 0 rgb(255, 0, 0);
     margin-bottom: 2rem;
 }
 
@@ -94,6 +93,11 @@ body::before {
     width: 200px;
     text-align: center;
     margin: auto;
-    color: #2196f3;
+    color: #f10000;
     padding-top: 20;
+}
+
+.image{
+    height: 5rem;
+
 }
